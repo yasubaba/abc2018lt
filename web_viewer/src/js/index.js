@@ -4,7 +4,7 @@ import utility from './utility';
 import skywayHelper from './skywayHelper';
 
 const skywayOptions = {
-    APIKEY: 'f9dbc8e7-502b-49e8-a244-a6f34e65f6a3',
+    APIKEY: '347195cf-26f8-4ed1-8090-6d21fe02d108',
     mode: 'sfu',
     roomName: 'abc'
 }
